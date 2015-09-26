@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Copy Assignment Or Copy Constructor
+title : Dependent names in C++ template
 ---
 C++ standard 14.6.2/3
 >In the definition of a class or class template, the scope of a dependent base class (14.6.2.1) is not examined
